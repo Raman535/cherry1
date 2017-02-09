@@ -1,5 +1,4 @@
 
-#Jenkinsfile (Declarative Pipeline)
 
 node {
     stage('Build') {
